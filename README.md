@@ -160,4 +160,7 @@ The default port for RPOS is 8081.
 - Add two way audio
 - and more...
 
+# 故障排除
+![Picture of reset RTSPServer 1->2](RTSPServerSetting.png?raw=true)
+reference: https://github.com/BreeeZe/rpos/issues/64
 
